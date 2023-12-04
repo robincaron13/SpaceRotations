@@ -128,6 +128,7 @@ Same with a quaternion:
 
 $$
 \mathbf{q} = [\cos 15^0, \sin 15^0, 0, 0] = [-0.7596879, 0.6502878, 0., 0.]  \\
+
 [0,\mathbf{r}'] = \mathbf{q}[0, \mathbf{r}] \mathbf{q}^{-1} = [0, 0, 0.1542515, 0.9880316] 
 $$
 
