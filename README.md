@@ -22,6 +22,7 @@ $$
 
 ## Quaternions:
 $\mathbf{q}$ is a quaternion, $\mathbf{q} \in \mathbf{H}$ and has a scalar and vector components, or equivalently, $w$, $x$, $y$ and $z$ components:
+
 $$
  \mathbf{q} = [w; \mathbf{v}] = [w, x, y, z],
 $$
